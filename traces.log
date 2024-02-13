@@ -1,0 +1,572 @@
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+2023-12-10 20:02:16 #### ----> stocks_api.php:"GET"
+2023-12-10 20:02:23 #### ----> stocks_api.php:"GET"
+2023-12-10 20:03:01 #### ----> stocks_api.php:"GET"
+2023-12-10 20:03:13 #### ----> stocks_api.php:"GET"
+2023-12-10 20:03:16 #### ----> stocks_api.php:"GET"
+2023-12-10 20:03:19 #### ----> stocks_api.php:"GET"
+2023-12-10 20:03:33 #### ----> stocks_api.php:"OPTIONS"
+2023-12-10 20:03:33 #### ----> stocks_api.php:"POST"
+2023-12-10 20:03:41 #### ----> stocks_api.php:"GET"
+2023-12-10 20:03:43 #### ----> stocks_api.php:"GET"
+2023-12-10 20:03:57 #### ----> stocks_api.php:"GET"
+2023-12-10 20:04:05 #### ----> stocks_api.php:"OPTIONS"
+2023-12-10 20:04:05 #### ----> stocks_api.php:"POST"
+2023-12-10 20:04:35 #### ----> stocks_api.php:"GET"
+2023-12-10 20:04:41 #### ----> stocks_api.php:"GET"
+2023-12-10 20:41:42 #### ----> stocks_api.php:"GET"
+2023-12-10 20:41:53 #### ----> stocks_api.php:"OPTIONS"
+2023-12-10 20:41:53 #### ----> stocks_api.php:"POST"
+2023-12-10 20:41:57 #### ----> stocks_api.php:"GET"
+2023-12-10 20:42:00 #### ----> stocks_api.php:"GET"
+2023-12-10 20:42:07 #### ----> stocks_api.php:"GET"
+2023-12-10 20:42:08 #### ----> stocks_api.php:"OPTIONS"
+2023-12-10 20:42:08 #### ----> stocks_api.php:"POST"
+2023-12-10 20:43:24 #### ----> stocks_api.php:"GET"
+2023-12-10 20:43:26 #### ----> stocks_api.php:"OPTIONS"
+2023-12-10 20:43:26 #### ----> stocks_api.php:"POST"
+2023-12-10 20:43:45 #### ----> stocks_api.php:"OPTIONS"
+2023-12-10 20:43:45 #### ----> stocks_api.php:"POST"
+2023-12-10 20:44:31 #### ----> stocks_api.php:"OPTIONS"
+2023-12-10 20:44:31 #### ----> stocks_api.php:"POST"
+2023-12-10 20:44:57 #### ----> stocks_api.php:"OPTIONS"
+2023-12-10 20:44:57 #### ----> stocks_api.php:"POST"
+2023-12-10 20:44:57 #### ----> stocks_api.php:"GET"
+2023-12-10 20:45:59 #### ----> stocks_api.php:"GET"
+2023-12-10 20:46:06 #### ----> stocks_api.php:"GET"
+2023-12-10 20:46:20 #### ----> stocks_api.php:"GET"
+2023-12-10 20:46:24 #### ----> stocks_api.php:"GET"
+2023-12-10 20:46:28 #### ----> stocks_api.php:"GET"
+2023-12-10 20:50:26 #### ----> stocks_api.php:"GET"
+2023-12-10 20:51:06 #### ----> stocks_api.php:"GET"
+2023-12-10 20:52:23 #### ----> stocks_api.php:"GET"
+2023-12-10 20:53:42 #### ----> stocks_api.php:"GET"
+2023-12-10 20:53:50 #### ----> stocks_api.php:"GET"
+2023-12-10 20:53:52 #### ----> stocks_api.php:"GET"
+2023-12-10 20:53:59 #### ----> stocks_api.php:"GET"
+2023-12-10 20:54:02 #### ----> stocks_api.php:"GET"
+2023-12-10 20:54:05 #### ----> stocks_api.php:"GET"
+2023-12-10 20:54:12 #### ----> stocks_api.php:"GET"
+2023-12-10 20:54:16 #### ----> stocks_api.php:"GET"
+2023-12-10 20:54:30 #### ----> stocks_api.php:"OPTIONS"
+2023-12-10 20:54:30 #### ----> stocks_api.php:"POST"
+2023-12-10 20:54:31 #### ----> stocks_api.php:"GET"
+2023-12-10 20:57:40 #### ----> stocks_api.php:"GET"
+2023-12-10 20:57:55 #### ----> stocks_api.php:"GET"
+2023-12-10 21:00:58 #### ----> stocks_api.php:"GET"
+2023-12-10 21:01:28 #### ----> stocks_api.php:"GET"
+2023-12-10 21:01:49 #### ----> stocks_api.php:"GET"
+2023-12-10 21:03:26 #### ----> stocks_api.php:"GET"
+2023-12-10 21:03:39 #### ----> stocks_api.php:"GET"
+2023-12-10 21:08:07 #### ----> stocks_api.php:"GET"
+2023-12-10 21:08:55 #### ----> stocks_api.php:"GET"
+2023-12-10 21:09:35 #### ----> stocks_api.php:"GET"
+2023-12-10 21:09:45 #### ----> stocks_api.php:"GET"
+2023-12-10 21:10:00 #### ----> stocks_api.php:"GET"
+2023-12-10 21:10:39 #### ----> stocks_api.php:"GET"
+2023-12-10 21:11:20 #### ----> stocks_api.php:"GET"
+2023-12-10 21:11:37 #### ----> stocks_api.php:"GET"
+2023-12-10 21:12:30 #### ----> stocks_api.php:"GET"
+2023-12-10 21:13:17 #### ----> stocks_api.php:"GET"
+2023-12-10 21:13:34 #### ----> stocks_api.php:"GET"
+2023-12-10 21:13:42 #### ----> stocks_api.php:"GET"
+2023-12-10 21:13:49 #### ----> stocks_api.php:"GET"
+2023-12-10 21:14:08 #### ----> stocks_api.php:"GET"
+2023-12-10 21:14:31 #### ----> stocks_api.php:"GET"
+2023-12-10 21:15:00 #### ----> stocks_api.php:"GET"
+2023-12-10 21:15:11 #### ----> stocks_api.php:"GET"
+2023-12-10 21:16:06 #### ----> stocks_api.php:"GET"
+2023-12-10 21:16:27 #### ----> stocks_api.php:"GET"
+2023-12-10 21:17:12 #### ----> stocks_api.php:"GET"
+2023-12-10 21:17:30 #### ----> stocks_api.php:"GET"
+2023-12-10 21:17:50 #### ----> stocks_api.php:"GET"
+2023-12-10 21:18:12 #### ----> stocks_api.php:"GET"
+2023-12-10 21:18:56 #### ----> stock_api.php:"GET"
+2023-12-10 21:23:23 #### ----> stock_api.php:"GET"
+2023-12-10 21:24:05 #### ----> stock_api.php:"GET"
+2023-12-10 21:24:07 #### ----> stock_api.php:"GET"
+2023-12-10 21:24:13 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:24:13 #### ----> stock_api.php:"PUT"
+2023-12-10 21:24:59 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:24:59 #### ----> stock_api.php:"PUT"
+2023-12-10 21:25:23 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:25:23 #### ----> stock_api.php:"PUT"
+2023-12-10 21:25:29 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:25:29 #### ----> stock_api.php:"PUT"
+2023-12-10 21:25:36 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:25:36 #### ----> stock_api.php:"PUT"
+2023-12-10 21:28:20 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:28:20 #### ----> stock_api.php:"PUT"
+2023-12-10 21:29:58 #### ----> stock_api.php:"GET"
+2023-12-10 21:29:59 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:29:59 #### ----> stock_api.php:"PUT"
+2023-12-10 21:30:53 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:30:53 #### ----> stock_api.php:"PUT"
+2023-12-10 21:30:58 #### ----> stock_api.php:"GET"
+2023-12-10 21:31:02 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:31:02 #### ----> stock_api.php:"PUT"
+2023-12-10 21:32:34 #### ----> stock_api.php:"GET"
+2023-12-10 21:32:46 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:32:46 #### ----> stock_api.php:"PUT"
+2023-12-10 21:33:28 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:33:28 #### ----> stock_api.php:"PUT"
+2023-12-10 21:33:38 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:33:38 #### ----> stock_api.php:"PUT"
+2023-12-10 21:33:39 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:33:39 #### ----> stock_api.php:"PUT"
+2023-12-10 21:33:45 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:33:45 #### ----> stock_api.php:"PUT"
+2023-12-10 21:34:05 #### ----> stock_api.php:"GET"
+2023-12-10 21:34:06 #### ----> stock_api.php:"GET"
+2023-12-10 21:34:08 #### ----> stock_api.php:"GET"
+2023-12-10 21:34:12 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:34:12 #### ----> stock_api.php:"PUT"
+2023-12-10 21:34:14 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:34:14 #### ----> stock_api.php:"PUT"
+2023-12-10 21:34:15 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:34:15 #### ----> stock_api.php:"PUT"
+2023-12-10 21:34:52 #### ----> stock_api.php:"GET"
+2023-12-10 21:34:56 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:34:56 #### ----> stock_api.php:"PUT"
+2023-12-10 21:34:57 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:34:57 #### ----> stock_api.php:"PUT"
+2023-12-10 21:35:13 #### ----> stock_api.php:"GET"
+2023-12-10 21:35:14 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:35:14 #### ----> stock_api.php:"PUT"
+2023-12-10 21:35:15 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:35:15 #### ----> stock_api.php:"PUT"
+2023-12-10 21:35:33 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:35:33 #### ----> stock_api.php:"PUT"
+2023-12-10 21:35:34 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:35:34 #### ----> stock_api.php:"PUT"
+2023-12-10 21:35:35 #### ----> stock_api.php:"OPTIONS"
+2023-12-10 21:35:35 #### ----> stock_api.php:"PUT"
+2023-12-11 14:00:53 #### ----> stock_api.php:"GET"
+2023-12-11 14:00:54 #### ----> stock_api.php:"GET"
+2023-12-11 14:00:55 #### ----> stock_api.php:"GET"
+2023-12-11 17:59:39 #### ----> stock_api.php:"GET"
+2023-12-11 17:59:41 #### ----> stock_api.php:"GET"
+2023-12-11 18:07:01 #### ----> stock_api.php:"GET"
+2023-12-11 18:08:24 #### ----> stock_api.php:"GET"
+2023-12-11 18:08:28 #### ----> stock_api.php:"GET"
+2023-12-11 20:17:03 #### ----> stock_api.php:"GET"
+2023-12-11 20:17:06 #### ----> stock_api.php:"GET"
+2023-12-11 20:17:16 #### ----> stock_api.php:"OPTIONS"
+2023-12-11 20:17:16 #### ----> stock_api.php:"PUT"
+2023-12-11 20:18:39 #### ----> stock_api.php:"GET"
+2023-12-11 20:18:51 #### ----> stock_api.php:"GET"
+2023-12-11 20:22:16 #### ----> stock_api.php:"GET"
+2023-12-11 20:22:38 #### ----> stock_api.php:"OPTIONS"
+2023-12-11 20:22:38 #### ----> stock_api.php:"PUT"
+2023-12-11 20:23:52 #### ----> stock_api.php:"OPTIONS"
+2023-12-11 20:23:52 #### ----> stock_api.php:"PUT"
+2023-12-11 20:23:55 #### ----> stock_api.php:"GET"
+2023-12-11 20:24:02 #### ----> stock_api.php:"OPTIONS"
+2023-12-11 20:24:02 #### ----> stock_api.php:"PUT"
+2023-12-11 20:24:02 #### ----> stock_api.php:"GET"
+2023-12-11 20:37:52 #### ----> stock_api.php:"GET"
+2023-12-11 21:00:10 #### ----> stock_api.php:"GET"
+2023-12-11 21:09:34 #### ----> stock_api.php:"GET"
+2023-12-11 22:14:06 #### ----> stock_api.php:"GET"
+2023-12-11 22:14:54 #### ----> stock_api.php:"GET"
+2023-12-11 22:14:56 #### ----> stock_api.php:"GET"
+2023-12-11 22:14:58 #### ----> stock_api.php:"GET"
+2023-12-11 22:22:55 #### ----> stock_api.php:"GET"
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->FIN TRY
+2023-12-12 03:17:25 #### ----> stock_api.php:"GET"
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+2023-12-12 16:50:31 #### ----> stock_api.php:"GET"
+2023-12-12 16:50:46 #### ----> stock_api.php:"GET"
+2023-12-12 16:52:54 #### ----> stock_api.php:"GET"
+2023-12-12 16:53:03 #### ----> stock_api.php:"GET"
+2023-12-12 16:53:04 #### ----> stock_api.php:"GET"
+2023-12-12 16:53:08 #### ----> stock_api.php:"OPTIONS"
+2023-12-12 16:53:08 #### ----> stock_api.php:"PUT"
+2023-12-12 16:53:08 #### ----> stock_api.php:"GET"
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+2023-12-28 18:28:45 #### ----> stock_api.php:"GET"
+2023-12-28 18:28:47 #### ----> stock_api.php:"GET"
+2023-12-28 18:28:50 #### ----> stock_api.php:"GET"
+2023-12-28 18:28:52 #### ----> stock_api.php:"GET"
+2023-12-28 18:28:56 #### ----> stock_api.php:"GET"
+2023-12-28 18:28:59 #### ----> stock_api.php:"GET"
+2023-12-28 18:29:04 #### ----> stock_api.php:"GET"
+2024-01-06 19:20:44 #### ----> stock_api.php:"GET"
+2024-01-06 19:20:51 #### ----> stock_api.php:"GET"
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->FIN TRY
+#####--->VAMOS A SUBIR EL FICHERO
+#####--->INICIO TRY
+#####--->PASO 1 HECHO
+#####--->PASO 2 HECHO
+#####--->PASO 3 HECHO
+#####--->PASO 4 HECHO
+#####--->PASO 5 HECHO
+#####--->fichero subido con éxito!!!
+#####--->FIN TRY
+2024-02-12 21:01:59 #### ----> stock_api.php:"OPTIONS"
+2024-02-12 21:01:59 #### ----> stock_api.php:"POST"
+2024-02-12 21:02:56 #### ----> stock_api.php:"OPTIONS"
+2024-02-12 21:02:56 #### ----> stock_api.php:"POST"
+2024-02-12 21:04:35 #### ----> stock_api.php:"OPTIONS"
+2024-02-12 21:04:35 #### ----> stock_api.php:"POST"
+2024-02-12 21:05:32 #### ----> stock_api.php:"OPTIONS"
+2024-02-12 21:05:32 #### ----> stock_api.php:"POST"
